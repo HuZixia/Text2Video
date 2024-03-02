@@ -69,9 +69,9 @@ python main.py
 ```
 
 
-## `4. 作者信息`
+## 4. 作者信息
 
-@Author    : RedHerring
+`@Author    : RedHerring`
 
 `@微信公众号  : AI Freedom`
 
