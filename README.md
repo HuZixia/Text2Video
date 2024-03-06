@@ -13,6 +13,8 @@
 4. 视频合成，将图片和语音合成视频，moviepy
 
 
+https://github.com/HuZixia/Text2Video/assets/38995480/e87a92e9-21bf-41b1-ba62-6800a59b5b72
+
 
 ## 2. 效果展示
 
