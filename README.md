@@ -18,7 +18,7 @@
 
 ## 2. 效果展示
 
-视频结果在目录 `data/data_video` 下，以下是一个例子。
+视频结果在目录 `data/data_video` ，以下是一个例子。
 
 https://github.com/HuZixia/Text2Video/assets/38995480/10a3b5ac-f762-4286-8c86-ce57c9a7eb40
 
